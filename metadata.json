@@ -1,0 +1,6 @@
+{
+  "name": "Smart Route Finder & Navigation System",
+  "description": "Interactive graph navigation system implementing Dijkstra, A*, BFS, and DFS with step-by-step visual exploration, data structures inspector, and travel cost estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
